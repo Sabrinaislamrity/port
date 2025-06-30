@@ -57,7 +57,7 @@ const Navber = () => {
           Home
         </a>
       </li>
-      <li>
+      {/* <li>
         <a
           href="/about"
           onClick={(e) => {
@@ -112,7 +112,7 @@ const Navber = () => {
         >
           Contact
         </a>
-      </li>
+      </li> */}
     </>
   );
 
