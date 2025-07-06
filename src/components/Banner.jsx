@@ -94,7 +94,7 @@ const Banner = () => {
 
           {/* Download Resume Button */}
           <a
-            href="/public/Sabrina's resume.pdf"
+            href="https://drive.google.com/uc?export=download&id=1EWkR20-1tRz4OWJuYJmhCUaPuTWO8Bbf"
             download
             className="inline-flex items-center gap-2 mt-6 px-6 py-3 rounded-full bg-gradient-to-r from-yellow-400 via-orange-500 to-amber-600 text-gray-900 font-semibold shadow-lg
                        hover:scale-105 hover:shadow-2xl transition-transform duration-300 select-none"
